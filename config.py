@@ -1,0 +1,5 @@
+apiKey = ''
+apiSecret = ''
+
+
+pairsToTrade = ['ETHUSDT']
